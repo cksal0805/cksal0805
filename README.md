@@ -3,7 +3,6 @@
 <div align="center">
 
 # 🐘 YoonDumbo 🐘
-✨ <b>2001.05.11</b>
 ✨ <b>Front-End Deveoloper</b>
 
 ### ⚒️ Skiis ⚒️
