@@ -1,9 +1,8 @@
-![header](https://capsule-render.vercel.app/api?color=auto&type=wave)
 
 <div align="center">
 
-# 🐰 Valley
-✨ <b>Front-End Deveoloper</b>
+# Valley
+<b>Front-End Deveoloper</b>
 
 ### ⚒️ Skiis ⚒️
 
