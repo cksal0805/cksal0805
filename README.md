@@ -2,7 +2,7 @@
 <div align="center">
 
 # Valley
-<b>Front-End Deveoloper</b>
+<b>FE Deveoloper</b>
 
 ### ⚒️ Skiis ⚒️
 
